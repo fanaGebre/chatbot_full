@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guahro Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+    <!-- Chatbot Button -->
+    <div id="chatbot-btn">
+        💬 Chat
+    </div>
+
+    <!-- Chatbot Container (Hidden Initially) -->
+    <div id="chat-container" class="hidden">
+        <div class="chat-header">
+            <span>Guahro AI Chatbot</span>
+            <button id="close-chat">&times;</button>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <div class="bot-message">Hello! How can I assist you today?</div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

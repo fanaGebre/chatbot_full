@@ -1,0 +1,170 @@
+# Guahro Software Company - Website Content
+# Last Updated: March 21, 2025
+
+## 1. About Guahro
+Guahro LLC offers expert tutoring in Full Stack, Frontend, Backend, Generative AI Development, and DevOps Engineering.
+Our flexible, instructor-led virtual classes help individuals achieve a six-figure salary in just 9 months.
+
+## 2. Services We Offer
+- **Full Stack Development Bootcamp**
+- **Frontend Development Training (React, Vue, Angular)**
+- **Backend Development (Java, Spring Boot, Python, Node.js)**
+- **Generative AI Development**
+- **DevOps Engineering (AWS, Kubernetes, Docker, CI/CD)**
+- **Staffing & Job Placement Assistance**
+
+## 3. Bootcamp Details
+- **Duration:** 9 months
+- **Mode:** Online, Instructor-Led
+- **Tuition Fee:** $X,XXX
+- **Support:** Resume writing, interview prep, job assistance (Free)
+
+## 4. How to Register
+- Visit: [www.guahro.com/tutoring/register/student](https://www.guahro.com/register)
+- Fill out the registration form
+- Pay tuition or apply for financing
+- Start learning!
+
+
+## **5. FAQs**  
+
+### **# Q1: What is Guahro Bootcamp?**  
+**⭐ A:** *Guahro Bootcamp is an intensive, hands-on training program designed to help individuals gain in-demand skills in Full Stack Development, Generative AI, and DevOps.*  
+
+### **# Q2: Who should enroll in Guahro Bootcamp?**  
+**⭐ A:** *Guahro Bootcamp is suitable for beginners, career changers, students, software developers, IT professionals, and entrepreneurs looking to gain tech skills.*  
+
+### **# Q3: What makes Guahro Bootcamp different from other coding bootcamps?**  
+**⭐ A:** *Guahro Bootcamp provides personalized mentorship, real-world projects, career support, and flexible schedules to help learners succeed in the tech industry.*  
+
+### **# Q4: What technologies are covered in the Full Stack Development Bootcamp?**  
+**⭐ A:** *The Full Stack Development Bootcamp covers React.js, Java, Spring Boot, APIs, database management, RESTful services, authentication, and cloud deployment.*  
+
+### **# Q5: What topics are included in the Generative AI Bootcamp?**  
+**⭐ A:** *The Generative AI Bootcamp covers machine learning, deep learning, NLP, AI model training, computer vision, AI ethics, and prompt engineering.*  
+
+### **# Q6: What skills will I learn in the DevOps Bootcamp?**  
+**⭐ A:** *The DevOps Bootcamp includes automation, cloud computing (AWS, Azure), Kubernetes, Docker, CI/CD pipelines, infrastructure as code (IaC), and system monitoring.*  
+
+### **# Q7: How long does each bootcamp last?**  
+**⭐ A:** *The bootcamps typically last between 6 to 9 months, depending on the program and schedule (full-time or part-time).*  
+
+### **# Q8: Is the bootcamp full-time or part-time?**  
+**⭐ A:** *Guahro offers both full-time and part-time options, including evening and weekend classes for working professionals.*  
+
+### **# Q9: Do I need prior experience to join the bootcamp?**  
+**⭐ A:** *No prior experience is required for beginner-friendly courses. Advanced programs may require basic programming knowledge.*  
+
+### **# Q10: Is the bootcamp conducted online or in person?**  
+**⭐ A:** *Guahro Bootcamps are conducted online, featuring live instructor-led classes, recorded sessions, and interactive assignments.*  
+
+### **# Q11: Do I get lifetime access to the course materials?**  
+**⭐ A:** *Yes, students receive lifetime access to recorded sessions, assignments, and additional resources.*  
+
+### **# Q12: What kind of projects will I work on during the bootcamp?**  
+**⭐ A:** *Students build real-world projects such as e-commerce platforms, AI chatbots, cloud deployment applications, and data-driven AI models.*  
+
+### **# Q13: Do I get a certificate after completing the bootcamp?**  
+**⭐ A:** *Yes, Guahro provides an industry-recognized certificate upon successful completion of the bootcamp.*  
+
+### **# Q14: Does Guahro provide career support?**  
+**⭐ A:** *Yes, career support includes resume reviews, LinkedIn optimization, mock interviews, and job placement assistance.*  
+
+### **# Q15: What kind of mentorship and support is available?**  
+**⭐ A:** *Students receive one-on-one mentorship, project feedback, live Q&A sessions, and access to an exclusive student community.*  
+
+### **# Q16: Can I take the bootcamp while working full-time?**  
+**⭐ A:** *Yes, Guahro offers flexible schedules, including weekend and evening classes for professionals.*  
+
+### **# Q17: How can I apply for Guahro Bootcamp?**  
+**⭐ A:** *You can apply online at [www.guahro.com/tutoring/register/student](https://www.guahro.com/register). The website provides details about upcoming bootcamps and application deadlines.*  
+
+### **# Q18: Can I interact with instructors directly?**  
+**⭐ A:** *Yes, students can interact with instructors through live sessions, Q&A forums, and one-on-one mentorship meetings.*  
+
+### **# Q19: What happens if I miss a class?**  
+**⭐ A:** *All sessions are recorded and available for replay, so you can catch up on missed lessons anytime.*  
+
+---
+
+## 6. Programs & Course Details
+
+### 🚀 **Full Stack Developer** (432 hours)
+- **Frontend:** JavaScript, React/Angular, Bootstrap
+- **Backend:** Java (above Java 8), Spring Boot
+- **Database:** PostgreSQL, MongoDB/Redis
+- **Tools:** GitHub/GitLab, Jenkins, Kubernetes, Agile
+- **Cloud:** AWS/GCP
+💰 **Fee:** $2000 (or $1000 every 4.5 months)
+🔗 [Learn More](https://www.guahro.com/fullstack)
+
+### 🧠 **Generative AI Developer** (432 hours)
+- **Languages:** Python, Flask
+- **AI Tools:** OpenAI Assistants API, Prompt Engineering, LLM, NLP
+- **Machine Learning:** Deep Learning, RAG, GitHub Copilot
+💰 **Fee:** $4000 (or $2000 every 4.5 months)
+🔗 [Learn More](https://www.guahro.com/genai)
+
+### ⚙️ **DevOps Engineer** (348 hours)
+- **Automation:** Shell & Python Scripting
+- **CI/CD:** Jenkins
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
+- **Containerization:** Docker, Kubernetes, Amazon EKS
+- **Monitoring:** Prometheus, Grafana, ELK Stack
+💰 **Fee:** $3000 (or $1500 every 4.5 months)
+🔗 [Learn More](https://www.guahro.com/devops)
+
+### 💻 **Frontend Developer** (195 hours)
+- **Languages:** JavaScript, React/Angular
+- **Design Tools:** Figma
+- **Backend Integration:** Restful API/GraphQL
+💰 **Fee:** $1000 (or $500 every 2 months)
+🔗 [Learn More](https://www.guahro.com/frontend)
+
+### 🔙 **Backend Developer** (226 hours)
+- **Backend Technologies:** Java, Spring Boot
+- **Database:** PostgreSQL, MongoDB
+- **Microservices & API:** GraphQL, Restful API
+💰 **Fee:** $1000 (or $500 every 2.5 months)
+🔗 [Learn More](https://www.guahro.com/backend)
+
+---
+
+## 7. Career Support Services (FREE!)
+✔ **Professional Resume & Cover Letter Writing**
+✔ **One-on-One Mock Interviews**
+✔ **Live Coding Interviews & Knowledge Assessments**
+✔ **Job Hunting Assistance**
+✔ **LinkedIn & Career Profile Optimization**
+✔ **Compensation Negotiation Guidance**
+✔ **Direct Hiring & Staffing Support**
+💰 **Completely Free** for all enrolled students!
+
+🔗 [Learn More](https://www.guahro.com)
+
+---
+
+## 8. Why Choose Guahro?
+✅ **Expert Trainers & Industry Leaders**
+✅ **24/7 Customer Support**
+✅ **Personalized Career Mentorship**
+✅ **High Success Rate in Job Placements**
+
+👥 **Meet Our Team**
+- **Gebru Gerezigiher** - Co-founder & Principal Trainer
+- **Fana Gebremeskel** - Full Stack Trainer
+- **Eyerusalem Demoz Teka** - DevOps Engineer
+
+🔗 Connect with us:
+- [Facebook](https://www.facebook.com/GuahroLLC)
+- [Instagram](https://www.instagram.com/guahro/)
+- [LinkedIn](https://www.linkedin.com/in/guahro/)
+
+---
+
+## 9. Contact Us
+📍 **Address:** 7322 Miramonte, Irvine, CA 92618, US  
+📧 **Email:** info@guahro.com  
+📞 **Phone:** +1 641 233 0137  
+
+© 2025 Guahro LLC | [www.guahro.com](https://www.guahro.com)
